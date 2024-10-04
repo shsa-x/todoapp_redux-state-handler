@@ -14,5 +14,5 @@ Key features of the **redux-state-handler** library include:
 
 By leveraging these methods, you can build responsive applications with minimal boilerplate code. The library is designed to enhance your productivity and streamline state management, making it easier to focus on building your app.
 
-**Explore the library repository**: [redux-state-handler on GitHub]()https://github.com/shsa-x/redux-state-handler.git
+**Explore the library repository**: [redux-state-handler on GitHub](https://github.com/shsa-x/redux-state-handler.git)
 
