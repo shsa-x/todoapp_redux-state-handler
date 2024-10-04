@@ -5,7 +5,9 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      textDecoration: ['hover', 'focus'], // Ensure this is available
+    },
   },
   plugins: [],
 }
